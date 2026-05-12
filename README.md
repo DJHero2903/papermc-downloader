@@ -1,10 +1,10 @@
-# [DJHero2903/papermc_downloader](https://github.com/DJHero2903/papermc_downloader)
+# [DJHero2903/papermc-downloader](https://github.com/DJHero2903/papermc-downloader)
 
 **A python script to download a selected version and build of paper using the papermc.io API v2.**
 
 ## Installation
 
-1. Clone this repository `git clone https://github.com/DJHero2903/papermc_downloader.git` or [download as zip archive](https://github.com/DJHero2903/papermc_downloader/archive/refs/heads/main.zip),
+1. Clone this repository `git clone https://github.com/DJHero2903/papermc_downloader.git` or [download as zip archive](https://github.com/DJHero2903/papermc-downloader/archive/refs/heads/main.zip),
 
 2. Install python 3.11.3 or higher,
 
@@ -47,4 +47,4 @@ The default option is shown in cyan.
 
 ## Licence
 
-[GNU General Public License v3.0](https://github.com/DJHero2903/papermc_downloader/blob/main/LICENSE)
+[GNU General Public License v3.0](https://github.com/DJHero2903/papermc-downloader/blob/main/LICENSE)
